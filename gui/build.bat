@@ -1,0 +1,1 @@
+fyne package -os windows -name main -icon C:\Users\Xie\Pictures\519553e1-744c-4e5c-991f-dee5b7f55af2.png
